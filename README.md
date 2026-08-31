@@ -2,7 +2,7 @@
 
 <a href="https://hellmangui.github.io/dronner/"><img src="dronner.svg" alt="Dronner — jump the stones, burn the husks. Click to play." width="100%"></a>
 
-# Guilherme — `hellmangui`
+# 
 
 Thirteen years making things people look at. Three making things people use.
 
