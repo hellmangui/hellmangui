@@ -1,5 +1,7 @@
 [English](README.md) · [Português](README.pt-BR.md) · **Español**
 
+<a href="https://hellmangui.github.io/dronner/"><img src="dronner.svg" alt="Dronner — jump the stones, burn the husks. Click to play." width="100%"></a>
+
 # Guilherme — `hellmangui`
 
 Trece años haciendo cosas para que la gente mire. Tres haciendo cosas para que la gente use.
@@ -65,7 +67,6 @@ La campaña política fue buen entrenamiento para el software. Plazo que no se m
 
 ## Dronner
 
-<a href="https://hellmangui.github.io/dronner/"><img src="dronner.svg" alt="Dronner — un dragón rojo corriendo y escupiendo fuego" width="100%"></a>
 
 Un dragoncito rojo y una carrera sin fin. La piedra se salta, la carcasa se quema — el salto es corto a propósito, demasiado bajo para pasar por encima de una carcasa, así que ninguno de los dos botones es opcional.
 
