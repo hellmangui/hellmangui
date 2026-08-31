@@ -65,11 +65,11 @@ Campanha política foi bom treino para software. Prazo que não move, consequên
 
 ## Dronner
 
-<a href="https://hellmangui.github.io/dronner/"><img src="dronner.svg" alt="Dronner — um dragão vermelho correndo e cuspindo fogo" width="100%"></a>
+<a href="https://github.com/hellmangui/dronner"><img src="dronner.svg" alt="Dronner — um dragão vermelho correndo e cuspindo fogo" width="100%"></a>
 
 Um dragãozinho vermelho e uma corrida sem fim. Pedra você pula, carcaça você queima — o salto é curto de propósito, baixo demais para passar por cima de uma carcaça, então nenhum dos dois botões é opcional.
 
-Um arquivo HTML, sem dependência nenhuma, tudo desenhado em canvas. **[Jogar](https://hellmangui.github.io/dronner/)** · [código](https://github.com/hellmangui/dronner)
+Um arquivo HTML, sem dependência nenhuma, tudo desenhado em canvas. **[Código e como rodar](https://github.com/hellmangui/dronner)**
 
 ---
 
