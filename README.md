@@ -50,13 +50,6 @@ Farms, animal genetics and breeding, cooperatives, a mint, workshops, industries
 
 ---
 
-## GitHub
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hellmangui&show_icons=true&count_private=true&hide_border=true&theme=github_dark&hide_title=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=hellmangui&show_icons=true&count_private=true&hide_border=true&hide_title=true" alt="GitHub stats for hellmangui">
-</picture>
-
 Most of my work lives in private repositories — game projects and client software.
 
 ---

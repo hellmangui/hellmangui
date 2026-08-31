@@ -50,13 +50,6 @@ Checkout con **MercadoPago** y autenticación Discord. El webhook vuelve a consu
 
 ---
 
-## GitHub
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hellmangui&show_icons=true&count_private=true&hide_border=true&theme=github_dark&hide_title=true&locale=es">
-  <img src="https://github-readme-stats.vercel.app/api?username=hellmangui&show_icons=true&count_private=true&hide_border=true&hide_title=true&locale=es" alt="Estadísticas de GitHub de hellmangui">
-</picture>
-
 La mayor parte de mi trabajo vive en repositorios privados — proyectos de juego y software de cliente.
 
 ---

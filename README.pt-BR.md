@@ -50,13 +50,6 @@ Checkout **MercadoPago** com autenticação Discord. O webhook reconsulta o stat
 
 ---
 
-## GitHub
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hellmangui&show_icons=true&count_private=true&hide_border=true&theme=github_dark&hide_title=true&locale=pt-br">
-  <img src="https://github-readme-stats.vercel.app/api?username=hellmangui&show_icons=true&count_private=true&hide_border=true&hide_title=true&locale=pt-br" alt="Estatísticas do GitHub de hellmangui">
-</picture>
-
 A maior parte do meu trabalho vive em repositórios privados — projetos de jogo e software de cliente.
 
 ---
