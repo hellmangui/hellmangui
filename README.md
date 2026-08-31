@@ -65,11 +65,11 @@ Political campaigns were good training for software. Fixed deadline, real conseq
 
 ## Dronner
 
-<a href="https://github.com/hellmangui/dronner"><img src="dronner.svg" alt="Dronner — a red dragon running and breathing fire" width="100%"></a>
+<a href="https://hellmangui.github.io/dronner/"><img src="dronner.svg" alt="Dronner — a red dragon running and breathing fire" width="100%"></a>
 
 A small red dragon and an endless run. Stones you jump, husks you burn — the jump is deliberately too short to clear a husk, so neither button is optional.
 
-One HTML file, no dependencies, everything drawn as canvas paths. **[Code and how to run it](https://github.com/hellmangui/dronner)**
+One HTML file, no dependencies, everything drawn as canvas paths. **[Play it](https://hellmangui.github.io/dronner/)** · [source](https://github.com/hellmangui/dronner)
 
 ---
 

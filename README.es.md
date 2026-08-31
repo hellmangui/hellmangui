@@ -65,11 +65,11 @@ La campaña política fue buen entrenamiento para el software. Plazo que no se m
 
 ## Dronner
 
-<a href="https://github.com/hellmangui/dronner"><img src="dronner.svg" alt="Dronner — un dragón rojo corriendo y escupiendo fuego" width="100%"></a>
+<a href="https://hellmangui.github.io/dronner/"><img src="dronner.svg" alt="Dronner — un dragón rojo corriendo y escupiendo fuego" width="100%"></a>
 
 Un dragoncito rojo y una carrera sin fin. La piedra se salta, la carcasa se quema — el salto es corto a propósito, demasiado bajo para pasar por encima de una carcasa, así que ninguno de los dos botones es opcional.
 
-Un archivo HTML, sin dependencias, todo dibujado en canvas. **[Código y cómo ejecutarlo](https://github.com/hellmangui/dronner)**
+Un archivo HTML, sin dependencias, todo dibujado en canvas. **[Jugar](https://hellmangui.github.io/dronner/)** · [código](https://github.com/hellmangui/dronner)
 
 ---
 
