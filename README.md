@@ -63,6 +63,16 @@ Political campaigns were good training for software. Fixed deadline, real conseq
 
 ---
 
+## Dronner
+
+<a href="https://hellmangui.github.io/dronner/"><img src="dronner.svg" alt="Dronner — a red dragon running and breathing fire" width="100%"></a>
+
+A small red dragon and an endless run. Stones you jump, husks you burn — the jump is deliberately too short to clear a husk, so neither button is optional.
+
+One HTML file, no dependencies, everything drawn as canvas paths. **[Play it](https://hellmangui.github.io/dronner/)** · [source](https://github.com/hellmangui/dronner)
+
+---
+
 Most of my work lives in private repositories — game projects and client software.
 
 Portuguese, Spanish and English, from years of working across four countries. Happy to talk in any of them.
