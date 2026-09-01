@@ -4,31 +4,25 @@
 
 # Guilherme Hellman
 
-I have worked as a graphic designer for thirteen years and as a software developer for three. My background includes motion, branding and political campaigns in Brazil, Paraguay, Spain and Portugal. Today I focus on games, RedM systems and drone software.
+Designer and software developer. I build game systems, operational software and visual identities.
 
----
+`HEL` &nbsp; `PANTANAL` &nbsp; `DRONE SOFTWARE`
+
+<img src="profile-status.svg" alt="Live GitHub activity" width="100%">
 
 ## Selected work
 
-### 🎮 HEL
-An extraction-survival game built in Unreal Engine. Its technical core is ours: gameplay systems, combat, locomotion and character architecture developed in-house in C++.
+| HEL | Pantanal | Drone software |
+|---|---|---|
+| Extraction survival built in Unreal Engine. Gameplay, combat, locomotion and character architecture developed in-house in C++. | RedM world with farms, animal genetics, cooperatives, industries, currency and exports. Includes dashboards and player guides. | Control, automation, telemetry and operational systems built for real drone workflows. |
 
-### 🐎 Pantanal
-A RedM server with farms, animal genetics, cooperatives, a mint, industries and exports. The project also includes a Next.js app with dashboards and player guides.
+### Dronner
 
-[Player guide](https://github.com/hellmangui/GUIA-DO-JOGADOR) · [Mint and economy modules](https://github.com/hellmangui/Casa-da-Moeda)
+A small endless runner made with HTML, Canvas and original illustrated assets.
 
-### 🚁 Drone software
-Software development for drone systems and operations.
+**[Play Dronner](https://hellmangui.github.io/dronner/)** · [Source](https://github.com/hellmangui/dronner)
 
-### 🐉 Dronner
-A small endless runner made with HTML, Canvas and original illustrated assets. Jump over stones and burn the husks.
-
-**[Play](https://hellmangui.github.io/dronner/)** · [source](https://github.com/hellmangui/dronner)
-
----
-
-## Tools I use
+## Tools
 
 | | |
 |---|---|
@@ -39,6 +33,4 @@ A small endless runner made with HTML, Canvas and original illustrated assets. J
 
 Most game and drone work is kept in private repositories.
 
-Portuguese, Spanish and English.
-
-[Achievements](https://github.com/hellmangui?tab=achievements)
+[Achievements](https://github.com/hellmangui?tab=achievements) · Portuguese, Spanish and English

@@ -4,31 +4,25 @@
 
 # Guilherme Hellman
 
-Trabajo como diseñador gráfico desde hace trece años y como desarrollador de software desde hace tres. Mi experiencia incluye motion, branding y campañas políticas en Brasil, Paraguay, España y Portugal. Hoy me dedico a juegos, sistemas para RedM y software para drones.
+Diseñador y desarrollador de software. Construyo sistemas para juegos, software operativo e identidades visuales.
 
----
+`HEL` &nbsp; `PANTANAL` &nbsp; `SOFTWARE PARA DRONES`
+
+<img src="profile-status.svg" alt="Actividad en vivo en GitHub" width="100%">
 
 ## Trabajos seleccionados
 
-### 🎮 HEL
-Un extraction-survival desarrollado en Unreal Engine. El núcleo técnico es nuestro: sistemas de gameplay, combate, locomoción y arquitectura de personajes construidos en C++ por el equipo.
+| HEL | Pantanal | Software para drones |
+|---|---|---|
+| Extraction survival desarrollado en Unreal Engine. Gameplay, combate, locomoción y arquitectura de personajes hechos en C++ por el equipo. | Mundo RedM con granjas, genética animal, cooperativas, industrias, moneda y exportación. Incluye paneles y guías para jugadores. | Control, automatización, telemetría y sistemas operativos creados para operaciones reales con drones. |
 
-### 🐎 Pantanal
-Un servidor RedM con granjas, genética animal, cooperativas, casa de la moneda, industrias y exportación. El proyecto también incluye una app en Next.js con paneles y guías para el jugador.
+### Dronner
 
-[Guía del jugador](https://github.com/hellmangui/GUIA-DO-JOGADOR) · [Casa de la moneda y módulos económicos](https://github.com/hellmangui/Casa-da-Moeda)
+Un pequeño endless runner hecho con HTML, Canvas e ilustraciones propias.
 
-### 🚁 Software para drones
-Desarrollo de software para sistemas y operaciones con drones.
+**[Jugar Dronner](https://hellmangui.github.io/dronner/)** · [Código](https://github.com/hellmangui/dronner)
 
-### 🐉 Dronner
-Un endless runner hecho con HTML, Canvas e ilustraciones propias. Salta las piedras y quema las carcasas.
-
-**[Jugar](https://hellmangui.github.io/dronner/)** · [código](https://github.com/hellmangui/dronner)
-
----
-
-## Herramientas que uso
+## Herramientas
 
 | | |
 |---|---|
@@ -39,6 +33,4 @@ Un endless runner hecho con HTML, Canvas e ilustraciones propias. Salta las pied
 
 La mayor parte del trabajo con juegos y drones está en repositorios privados.
 
-Portugués, español e inglés.
-
-[Logros](https://github.com/hellmangui?tab=achievements)
+[Logros](https://github.com/hellmangui?tab=achievements) · Portugués, español e inglés
