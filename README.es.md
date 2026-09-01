@@ -40,3 +40,5 @@ Un endless runner hecho con HTML, Canvas e ilustraciones propias. Salta las pied
 La mayor parte del trabajo con juegos y drones está en repositorios privados.
 
 Portugués, español e inglés.
+
+[Logros](https://github.com/hellmangui?tab=achievements)

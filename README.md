@@ -40,3 +40,5 @@ A small endless runner made with HTML, Canvas and original illustrated assets. J
 Most game and drone work is kept in private repositories.
 
 Portuguese, Spanish and English.
+
+[Achievements](https://github.com/hellmangui?tab=achievements)
