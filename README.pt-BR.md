@@ -22,21 +22,14 @@ Um pequeno endless runner feito com HTML, Canvas e ilustrações próprias.
 
 **[Jogar Dronner](https://hellmangui.github.io/dronner/)** · [Código](https://github.com/hellmangui/dronner)
 
-## Especializações
+## Competências
 
 | | |
 |---|---|
 | **Engenharia com IA** | Codex · Claude Code · agentes · automação · desenvolvimento completo |
 | **Segurança da informação** | Pentest · análise de vulnerabilidades · testes de segurança |
-| **Sistemas para jogos** | Unreal Engine 5 · C++ · gameplay · arquitetura de sistemas |
+| **Sistemas para jogos** | Unreal Engine 5 · C++ · Blueprints · Lua · gameplay · RedM / FiveM |
 | **Sistemas para drones** | Controle · telemetria · automação · software operacional |
-
-## Ferramentas
-
-| | |
-|---|---|
-| **Jogos** | Unreal Engine · C++ · Blueprints · Lua · RedM / FiveM |
-| **Drones** | Sistemas de controle · automação · telemetria · software operacional |
 | **Web** | Python · TypeScript · Next.js · React · Tailwind · PostgreSQL · Supabase |
 | **Design** | Photoshop · Illustrator · After Effects · DaVinci Resolve · Blender · Cinema 4D |
 
