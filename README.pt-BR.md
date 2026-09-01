@@ -4,7 +4,7 @@
 
 # Guilherme Hellman
 
-Designer e desenvolvedor de software. Construo sistemas para jogos, software operacional e identidades visuais.
+Desenvolvedor de software especializado em C++, Unreal Engine, engenharia com IA e segurança da informação. Uso Codex e Claude Code para projetar, construir, testar e entregar sistemas completos.
 
 `HEL` &nbsp; `PANTANAL` &nbsp; `SOFTWARE PARA DRONES`
 
@@ -21,6 +21,15 @@ Designer e desenvolvedor de software. Construo sistemas para jogos, software ope
 Um pequeno endless runner feito com HTML, Canvas e ilustrações próprias.
 
 **[Jogar Dronner](https://hellmangui.github.io/dronner/)** · [Código](https://github.com/hellmangui/dronner)
+
+## Especializações
+
+| | |
+|---|---|
+| **Engenharia com IA** | Codex · Claude Code · agentes · automação · desenvolvimento completo |
+| **Segurança da informação** | Pentest · análise de vulnerabilidades · testes de segurança |
+| **Sistemas para jogos** | Unreal Engine 5 · C++ · gameplay · arquitetura de sistemas |
+| **Sistemas para drones** | Controle · telemetria · automação · software operacional |
 
 ## Ferramentas
 

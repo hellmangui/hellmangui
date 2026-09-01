@@ -4,7 +4,7 @@
 
 # Guilherme Hellman
 
-Designer and software developer. I build game systems, operational software and visual identities.
+Software developer specializing in C++, Unreal Engine, AI-assisted engineering and information security. I use Codex and Claude Code to design, build, test and deliver complete systems.
 
 `HEL` &nbsp; `PANTANAL` &nbsp; `DRONE SOFTWARE`
 
@@ -21,6 +21,15 @@ Designer and software developer. I build game systems, operational software and 
 A small endless runner made with HTML, Canvas and original illustrated assets.
 
 **[Play Dronner](https://hellmangui.github.io/dronner/)** · [Source](https://github.com/hellmangui/dronner)
+
+## Specializations
+
+| | |
+|---|---|
+| **AI engineering** | Codex · Claude Code · agents · automation · end-to-end development |
+| **Information security** | Pentesting · vulnerability analysis · security testing |
+| **Game systems** | Unreal Engine 5 · C++ · gameplay · systems architecture |
+| **Drone systems** | Control · telemetry · automation · operational software |
 
 ## Tools
 
